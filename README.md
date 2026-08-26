@@ -4668,6 +4668,10 @@ harshithap2000-dai_deprivation"
 
 ![](tobycm_toby_dino.png)
 
+"github_user_dino_spitting"
+
+![](github_user_dino_spitting.png)
+
 "devwez pterodactyl dino"
 
 ![](cuqz_hackclub_dino.svg)
